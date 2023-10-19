@@ -1,0 +1,67 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to bottom, white, seagreen, white);
+}
+
+h1 {
+  text-align: center;
+  color: seagreen;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  color: white;
+  padding: 15px;
+}
+
+.subtitle{
+  background: seagreen;
+  padding: 5px;
+}
+.content {
+  color: seagreen;
+  text-align: center;
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.content ul li:hover{
+  background: seagreen;
+}
+
+html {
+  font-family: "Lucida Sans", sans-serif;
+}
+
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+.footer {
+  background-color: seagreen;
+  color: #ffffff;
+  text-align: center;
+  font-size: 12px;
+  padding: 15px;
+}
+
