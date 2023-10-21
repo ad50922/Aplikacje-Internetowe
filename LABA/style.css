@@ -3,6 +3,12 @@
   box-sizing: border-box;
 }
 
+header {
+  text-align: center;
+  color: seagreen;
+}
+
+
 body {
     background: linear-gradient(to bottom, white, seagreen, white);
 }
